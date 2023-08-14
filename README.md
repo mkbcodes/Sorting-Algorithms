@@ -10,7 +10,6 @@ This repository contains implementations of various sorting algorithms in Java. 
 4. **Merge Sort**
 5. **Quick Sort**
 6. **Heap Sort**
-... [and so on]
 
 ## Usage:
 
